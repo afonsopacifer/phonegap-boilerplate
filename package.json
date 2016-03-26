@@ -1,0 +1,12 @@
+{
+  "name": "phonegap-boilerplate",
+  "description": "",
+  "homepage": "https://github.com/afonsopacifer/phonegap-boilerplate",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Afonso Pacifer",
+    "email": "afonsopacifer@live.com",
+    "url": "http://afonsopacifer.com"
+  }
+}
